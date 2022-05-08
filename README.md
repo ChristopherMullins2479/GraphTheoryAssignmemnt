@@ -6,8 +6,7 @@
 # What will you need?
 
 ## Jupyter Notebook
-#### Jupyter installation requires Python 3.3 or greater. This will be ran from the cmd prompt by using the following command. jupyter notebook.
-#### This will have to be can in the file diesctory.
+#### Jupyter installation requires Python 3.3 or greater. This will be ran from the cmd prompt by using the following command. jupyter notebook. This will have to be can in the file diesctory.
 
 
 # What is in the Notebook
